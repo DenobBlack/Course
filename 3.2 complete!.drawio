@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2025-11-10T11:28:43.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="h6LYD1Xc07uUacnudLLV" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="Mlq6zZ0pExbqgmw0Vosq">
+    <mxGraphModel dx="1418" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-1" value="мобильное приложение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-2" value="Экран регистрации" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-3" value="Экран авторизации" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-4" value="Основной экран" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-5" value="Экран упражнений" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-6" value="Экран блюд" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP0DkFojE0NrbTqfS-WN-7" value="Экран тренировок" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
